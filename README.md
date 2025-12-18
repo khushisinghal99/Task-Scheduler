@@ -127,4 +127,13 @@ This project is ideal for:
 * 💾 File-based task input
 * 📊 Graphical UI
 
+## 📬 **Contact**  
+
+If you have any questions or suggestions, feel free to connect with us:  
+- **GitHub Repo**:   https://github.com/Dhruvi-Bansal/Task-Scheduler
+- **Contributors**:
+  - [khushisinghal99](https://github.com/khushisinghal99)   
+  - [Dhruvi-Bansal](https://github.com/Dhruvi-Bansal)  
+  - [AnshikaRajput296](https://github.com/AnshikaRajput296)  
+
  
